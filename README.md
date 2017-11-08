@@ -29,3 +29,8 @@
         Linux手动安装的软件，  
         [path]/xxx命令可以通过 ln -s 到 /usr/local/bin/xxx 的方式创建全局xxx命令
         
+- 为做本文档初始化了服务器      
+   ![](img/init2.jpg)        
+        
+        
+        
