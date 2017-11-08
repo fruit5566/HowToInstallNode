@@ -1,6 +1,6 @@
 
 
-##### 用 xshell5 连接远程inux服务器
+##### 用 xshell5 连接远程inux服务器.
 
 - Xshell官网下载  Home&School 版本，此版本免费。  
     [下载地址](http://www.netsarang.com/download/down_form.html?code=522)（如果此连接失效，自行去Xshell官网找）     
