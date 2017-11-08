@@ -25,7 +25,6 @@
         先 xz -d xxx.tar.xz 将 xxx.tar.xz解压成 xxx.tar   
         然后，再用 tar xvf xxx.tar来解包。  
         解压到指定文件夹用 -C 参数
-    
         Linux手动安装的软件，  
         [path]/xxx命令可以通过 ln -s 到 /usr/local/bin/xxx 的方式创建全局xxx命令
         
